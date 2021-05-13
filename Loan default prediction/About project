@@ -1,1 +1,9 @@
+Whenever any individual/corporation applies for a loan, their credit history undergoes a rigorous check to ensure that whether they are capable enough to pay off the loan. 
+There is always some risk associated when loan issued. Loan analysis is an evaluation method that determines if loans are made on feasible terms and if potential borrowers 
+can and are willing to pay back the loan. It checks the eligibility of the potential borrower against the criteria set forth for lending.
 
+The purpose of this project is to build a machine learning model that can predict whether a person will default on the loan based on the loan and personal information provided. 
+The model will help loan issuer to make decisions on issuing loans, so that the risk can be minimized, and the profit can be increased.
+
+Dataset used : https://www.kaggle.com/sonujha090/xyzcorp-lendingdata
+Data dictionary is available for columns description.
